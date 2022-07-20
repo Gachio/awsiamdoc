@@ -1,5 +1,9 @@
 # Create IAM policies with Terraform
 
+
+![Flowcharts](https://user-images.githubusercontent.com/19356065/180014901-de343f5b-371a-4a2d-abe7-32e046849f9c.png)
+
+
 IAM identities (users, groups, or roles) must be assigned explicit permissions to access AWS resources.
 The associated IAM policy determines the privileges available to an IAM identity.
 Policies are JSON documents that define explicit allow/deny privileges to specific resources or resource groups.
